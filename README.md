@@ -1,16 +1,64 @@
-# React + Vite
+React 3D Landing Page — Projeto de Estudos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este projeto foi desenvolvido com o objetivo de estudo e prática em desenvolvimento front-end, focando na criação de uma landing page moderna, responsiva e visualmente impactante, utilizando tecnologias atuais e integração de elementos 3D.
 
-Currently, two official plugins are available:
+A aplicação explora conceitos fundamentais do ecossistema React, estilização com Tailwind CSS e incorporação de design tridimensional por meio do Spline, servindo como base para aprendizado e evolução técnica.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📚 Objetivos do Projeto
 
-## React Compiler
+Consolidar conceitos iniciais de React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Compreender a estrutura de um projeto utilizando Vite
 
-## Expanding the ESLint configuration
+Aplicar Tailwind CSS para criação de layouts modernos e responsivos
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Integrar e animar elementos 3D em aplicações web
+
+Desenvolver uma Single Page Application (SPA) com boas práticas iniciais
+
+Este repositório possui caráter educacional e foi criado exclusivamente para fins de aprendizado.
+
+🚀 Tecnologias Utilizadas
+
+React JS — Biblioteca para construção da interface
+
+Vite — Ferramenta de build e desenvolvimento
+
+Tailwind CSS — Estilização e layout responsivo
+
+Spline — Criação e integração de elementos 3D
+
+JavaScript (ES6+)
+
+▶️ Como executar o projeto
+
+Clone o repositório:
+
+git clone https://github.com/seu-usuario/react-3d-landing-study.git
+
+
+Acesse a pasta do projeto:
+
+cd react-3d-landing-study
+
+
+Instale as dependências:
+
+npm install
+
+
+Inicie o servidor de desenvolvimento:
+
+npm run dev
+
+📌 Observações
+
+O diretório node_modules não é versionado no repositório.
+
+Este projeto foi construído como parte de um processo de aprendizado prático.
+
+Novas melhorias e ajustes poderão ser adicionados conforme a evolução dos estudos.
+
+📄 Licença
+
+Este projeto é de uso livre para fins educacionais e de estudo.
