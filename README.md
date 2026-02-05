@@ -34,7 +34,7 @@ JavaScript (ES6+)
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/react-3d-landing-study.git
+git clone https://github.com/AntoniBC03/react-3d-landing-study.git
 
 
 Acesse a pasta do projeto:
